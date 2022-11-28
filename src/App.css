@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.center{
+   justify-content: center;
+   align-items: center;
+  margin-left: 8%;
+}
+
+body{
+  background-color: black;
+}
+
